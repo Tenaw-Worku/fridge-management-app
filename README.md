@@ -1,6 +1,7 @@
 # Fridge-Management-App
 
-#### It is a Web-App to manage a fridge using HTML, CSS/BOOTSTRAP and JAVASCRIPT.
+#### It is a Web-App,developed using HTML, CSS/BOOTSTRAP and JAVASCRIPT for the management of a fridge.
 
 #### Enjoy it!
+ 
  
